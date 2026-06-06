@@ -1,3 +1,5 @@
+# Dppg+
+
 dppg+ is an attempt at calculating how good a defense was in a given season, accounting for teams played, era, and general simplicity.
 
 I chose not to normalize the stat at 100, as I believe being able to see the real number is valuable.
